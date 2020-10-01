@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Gmail Badge](https://img.shields.io/badge/-zonaabissal2016@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zonaabissal2016@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/Patrick-Santana-0790311a1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-santana-0660bb1a2/ "Connect on LinkedIn")
+ ![Profile Views](https://komarev.com/ghpvc/?username=Patrick-Santana&color=7802aa)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Patrick-Santana&count_private=true&hide=stars&show_icons=true&theme=buefy)](https://github.com/Patrick-Santana)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Santana&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
