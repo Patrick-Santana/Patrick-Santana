@@ -12,7 +12,7 @@
 ☕ Focused on **Java and the Spring ecosystem**
 📚 Interested in **system architecture, microservices and cloud computing**
 🛠️ I enjoy transforming complex ideas into efficient backend solutions
-
+ 
 ---
 
 # 🧠 Currently Learning
@@ -50,23 +50,13 @@
 ---
 
 # 📊 GitHub Stats
-<p align= justify-content: center;">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=Patrick-Santana&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true" />
 
-   ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact)
-  </picture>
-  
-</p>
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Patrick-Santana&show_icons=true&theme=dark#gh-dark-mode-only" />
+ &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Patrick-Santana&layout=compact&theme=dark#gh-dark-mode-only" />
+</div>
 
 ---
 
