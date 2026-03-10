@@ -61,13 +61,11 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true" />
 </picture>
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Patrick-Santana&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Santana&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+<!-- Statistics: Programming languages -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Patrick-Santana/repository_name/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/username/repository_name/main/output/stats_langs.svg">
+</picture>
 
 ---
 
