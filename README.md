@@ -1,23 +1,151 @@
-### Hi there 👋
+# 👋 Hello World! I'm Patrick
 
-<!--
-**Patrick-Santana/Patrick-Santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Engineer;Spring+Boot+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/-zonaabissal2016@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zonaabissal2016@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/Patrick-Santana-0790311a1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-santana-0660bb1a2/ "Connect on LinkedIn")
- ![Profile Views](https://komarev.com/ghpvc/?username=Patrick-Santana&color=7802aa)
+💻 Backend developer passionate about building scalable systems
+☕ Focused on **Java and the Spring ecosystem**
+📚 Interested in **system architecture, microservices and cloud computing**
+🛠️ I enjoy transforming complex ideas into efficient backend solutions
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Patrick-Santana&count_private=true&hide=stars&show_icons=true&theme=buefy)](https://github.com/Patrick-Santana)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Santana&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+# 🧠 Currently Learning
+
+* ☕ Advanced **Java**
+* 🌱 **Spring Boot**
+* 🧩 **Microservices Architecture**
+* 🐳 **Docker**
+* ☁️ **Cloud Technologies**
+* ⚙️ **System Design**
+
+---
+
+# 🛠️ Tech Stack
+
+## ☕ Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+## 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+## ⚙️ Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Patrick-Santana&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Santana&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Patrick-Santana&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Patrick-Santana&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Patrick-Santana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+
+</p>
+
+---
+
+# 🧩 Featured Projects
+
+### 🚀 REST API with Spring Boot
+
+A scalable REST API built with **Java and Spring Boot**, following clean architecture principles.
+
+### 📦 Task Manager API
+
+Backend service to manage tasks using **REST APIs and relational databases**.
+
+### 🧩 Microservices Demo
+
+A study project demonstrating **microservices architecture with Spring Cloud**.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:email@email.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Patrick-Santana&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+![snake gif](https://github.com/Patrick-Santana/Patrick-Santana/blob/output/github-contribution-grid-snake.svg)
+
+</p>
+
+---
+
+# ⚡ Developer Quote
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”
+> — Harold Abelson
+
+---
+
+⭐ If you like my projects, consider **starring the repositories**.
