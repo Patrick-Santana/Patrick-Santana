@@ -63,11 +63,7 @@
     <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true" />
   </picture>
   
-  <!-- Statistics: Programming languages -->
-  <picture>
-  <source srcset="https://raw.githubusercontent.com/Patrick-Santana/repository_name/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/Patrick-Santana/repository_name/main/output/stats_langs.svg">
-  </picture>
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&hide_progress=true)
 
 
 ---
