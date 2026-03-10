@@ -119,24 +119,3 @@ A study project demonstrating **microservices architecture with Spring Cloud**.
 <img src="https://komarev.com/ghpvc/?username=Patrick-Santana&color=blue&style=for-the-badge"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-![snake gif](https://github.com/Patrick-Santana/Patrick-Santana/blob/output/github-contribution-grid-snake.svg)
-
-</p>
-
----
-
-# ⚡ Developer Quote
-
-> “Programs must be written for people to read, and only incidentally for machines to execute.”
-> — Harold Abelson
-
----
-
-⭐ If you like my projects, consider **starring the repositories**.
