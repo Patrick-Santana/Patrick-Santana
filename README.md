@@ -1,7 +1,7 @@
  # 👋 Hello World! I'm Patrick
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Engineer;Spring+Boot+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCen  ter=true&width=600&lines=Java+Developer;Backend+Engineer;Spring+Boot+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -67,11 +67,8 @@
   picture>
   <source srcset="https://raw.githubusercontent.com/Patrick-Santana/repository_name/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/Patrick-Santana/repository_name/main/output/stats_langs.svg">
-</picture>
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Patrick%20Santana&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Backend%20Engineer&descAlignY=55&descSize=18"/>
-</p>
+  </picture>
+
 
 ---
 
