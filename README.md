@@ -61,9 +61,11 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true" />
+
+   ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact)
   </picture>
   
-  [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Patrick-Santana&layout=donut)](https://github.com/Pranesh-2005/github-readme-stats)
+
 
 
 ---
