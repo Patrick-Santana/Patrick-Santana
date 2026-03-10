@@ -69,21 +69,9 @@
   <img src="https://raw.githubusercontent.com/Patrick-Santana/repository_name/main/output/stats_langs.svg">
 </picture>
 </p>
-
-<!-- ========================= -->
-
-<!-- Statistics: Programming languages -->
-
-<!-- ========================= -->
-
-## 💻 Most Used Languages
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Santana&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Patrick%20Santana&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Backend%20Engineer&descAlignY=55&descSize=18"/>
 </p>
-
 
 ---
 
