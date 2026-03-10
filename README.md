@@ -64,7 +64,7 @@
   </picture>
   
   <!-- Statistics: Programming languages -->
-  picture>
+  <picture>
   <source srcset="https://raw.githubusercontent.com/Patrick-Santana/repository_name/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/Patrick-Santana/repository_name/main/output/stats_langs.svg">
   </picture>
