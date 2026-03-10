@@ -14,7 +14,7 @@
 🛠️ I enjoy transforming complex ideas into efficient backend solutions
  
 ---
-
+ 
 # 🧠 Currently Learning
 
 * ☕ Advanced **Java**
@@ -110,7 +110,7 @@ A study project demonstrating **microservices architecture with Spring Cloud**.
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/patrick-santana-ln/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
