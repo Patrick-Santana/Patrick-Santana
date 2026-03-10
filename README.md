@@ -7,7 +7,7 @@
 ---
 
 # 🚀 About Me
-
+ 
 💻 Backend developer passionate about building scalable systems
 ☕ Focused on **Java and the Spring ecosystem**
 📚 Interested in **system architecture, microservices and cloud computing**
@@ -48,24 +48,25 @@
 ---
 
 # 📊 GitHub Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api?username=Patrick-Santana&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true" />
-</picture>
-
-<!-- Statistics: Programming languages -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/Patrick-Santana/repository_name/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/username/repository_name/main/output/stats_langs.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=Patrick-Santana&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true" />
+  </picture>
+  
+  <!-- Statistics: Programming languages -->
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Patrick-Santana/repository_name/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/username/repository_name/main/output/stats_langs.svg">
+  </picture>
+</p>
 
 ---
 
