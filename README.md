@@ -50,7 +50,7 @@
 ---
 
 # 📊 GitHub Stats
-
+<p align= justify-content: center;">
   <picture>
     <source
       srcset="https://github-readme-stats-fast.vercel.app/api?username=Patrick-Santana&show_icons=true&theme=dark"
@@ -65,7 +65,7 @@
    ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact)
   </picture>
   
-
+</p>
 
 
 ---
